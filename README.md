@@ -51,3 +51,4 @@ Click Deploy. Done.
 - Some manufacturer sites (Trek, Specialized) render geometry tables via JavaScript, which means the raw HTML fetch may not include the table. In that case, Claude falls back to training knowledge and flags `data_confidence: medium`.
 - For maximum accuracy on any bike, upload the PDF spec sheet directly.
 - Stack and reach are highlighted in the geometry table as the primary fit coordinates.
+
