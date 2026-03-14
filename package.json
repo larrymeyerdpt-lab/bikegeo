@@ -4,6 +4,6 @@
   "description": "BUILD Sports Performance Lab - Bike Geometry Tool",
   "private": true,
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   }
 }
