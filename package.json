@@ -1,1 +1,9 @@
-
+{
+  "name": "bikegeo",
+  "version": "1.0.0",
+  "description": "BUILD Sports Performance Lab - Bike Geometry Tool",
+  "private": true,
+  "engines": {
+    "node": "18.x"
+  }
+}
